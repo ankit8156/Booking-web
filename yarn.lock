@@ -1,0 +1,17 @@
+# yarn.lock file
+
+react@^18.2.0:
+  version "18.2.0"
+  resolved "https://registry.yarnpkg.com/react/-/react-18.2.0.tgz"
+  integrity sha512-Md5w8K2sZKLn9jvK8mEZo5mPaY8H/O0k+n1U8O91GhH9dGnFXMoNjVxy9v...
+  dependencies:
+    react-dom "^18.2.0"
+
+react-dom@^18.2.0:
+  version "18.2.0"
+  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-18.2.0.tgz"
+  integrity sha512-wQwG5fZzYoHPOxZ4Pln95M5kH9c7E8DxDh/Oc5gkEdT2LCM8IMqLxY8Am...
+  dependencies:
+    react "^18.2.0"
+
+# more dependencies...
